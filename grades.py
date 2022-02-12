@@ -1,7 +1,9 @@
-
+"""
+made changes -Marie
+"""
 def compute_hw_average(grades):
     """
-    Compute the average grade
+    Computing the average grade
 
     Return a float respresnting the average!!
     """
