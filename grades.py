@@ -1,4 +1,6 @@
-
+"""
+made changes -Marie
+"""
 def compute_hw_average(grades):
     """
     Computing the average grade
